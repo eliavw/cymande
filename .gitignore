@@ -4,6 +4,7 @@ build/
 dist/
 *.egg-info
 *.idea
+*.idea/
 
 # Compiled source #
 ###################
