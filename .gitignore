@@ -4,7 +4,7 @@ build/
 dist/
 *.egg-info
 *.idea
-*.idea/
+.idea/
 
 # Compiled source #
 ###################
@@ -45,6 +45,13 @@ dist/
 .Trashes
 Icon?
 ehthumbs.db
+
+
+# Python          #
+###################
+__pycache__/
+*/__pycache__
+
 Thumbs.db
 
 # Misc #
